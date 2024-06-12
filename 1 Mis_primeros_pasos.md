@@ -72,4 +72,4 @@ Desplazamiento mediante el cuadro de nombres:
 ## 1.3 Nuevos libros: crear y guardar
 ## 1.4. Hoja de cálculo: crear, nombrar, renombrar y eliminar
 crear 5 hojas de cálculo dentro del mismo archivo, que cada una tenga un color y nombre diferente.
-
+## 1.5 Plantillas preestablecidas
