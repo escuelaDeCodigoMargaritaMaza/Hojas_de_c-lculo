@@ -73,3 +73,5 @@ Desplazamiento mediante el cuadro de nombres:
 ## 1.4. Hoja de cálculo: crear, nombrar, renombrar y eliminar
 crear 5 hojas de cálculo dentro del mismo archivo, que cada una tenga un color y nombre diferente.
 ## 1.5 Plantillas preestablecidas
+
+https://1drv.ms/x/s!As8z4ibCz_RRefWb7IN8_eKX6cs?e=SvVWH4
