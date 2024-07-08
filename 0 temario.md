@@ -65,27 +65,27 @@
 2.4 Fechas de vencimiento
 
 ## 3. Atajos
-3.1 CTRL + SHIFT + L
+3.1 CTRL + SHIFT + L     filtros
 
-3.2 CTRL + 0
+3.2 CTRL + 0      ocultar columna
 
-3.3 CTRL + SHIFT + 9
+3.3 CTRL + SHIFT + 9 mostrar fila, CTRL MAYUS 9 la oculta
 
-3.4 SHIFT
+3.4 SHIFT  
 
-3.5 CTRL + 1
+3.5 CTRL + 1  cuadro de dialogo formato de celdas
 
-3.6 CTRL + SHIFT + 1
+3.6 CTRL + SHIFT + 1   celda en formato número
 
-3.7 CTRL + SHIFT +4
+3.7 CTRL + SHIFT +4    celda en formato modeda
 
-3.8 CTRL + T
+3.8 CTRL + T   convierte en tabla
 
-3.9 CTRL + +
+3.9 CTRL + +  insertar
 
-3.10 CTRL + -
+3.10 CTRL + -  eliminar
 
-3.11 ALT + SHIFT + 0
+3.11 ALT + SHIFT + 0 autosuma
 
 ## 4. Tablas dinámicas
 ## 5. Gráficas
